@@ -17,7 +17,8 @@ public class Main {
 		pa.depositMoney(200.0);
 		System.out.println(pa.toString());
 		
-		/*
+		System.out.println("\n");
+		
 		BankAccount ba = new BankAccount();
 		System.out.println(ba.toString());
 		
@@ -33,13 +34,17 @@ public class Main {
 		
 		ba.depositMoney(0.0);
 		System.out.println(ba.toString());
-		/*
+		
+		
+		System.out.println("\n");
+		
+		 
 		System.out.println(UUID.randomUUID());
 		
 		System.out.println(UUID.randomUUID().toString().substring(0, 3));
 		
 		System.out.println(UUID.randomUUID().toString().substring(0, 10));
-		*/
+		
 	
 	}
 
